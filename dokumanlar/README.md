@@ -1,16 +1,18 @@
-﻿# Dokümanlar
+﻿# Dokumanlar
 
-Bu klasör proje dokümanlarını iki ana bölümde toplar.
+Bu klasor proje dokumanlarini uc ana bolumde toplar.
 
-## Klasörler
-- `uygulama-dokumanlari/`: Android uygulaması, testler, changelog ve yol haritaları
-- `web-dokumanlari/`: barkod.space web uygulaması, API ve deployment dokümanları
-- `web-dokumanlari/hata-kayitlari/`: geçmiş hata dökümleri ve log arşivi
-- `proje-kurallari.md`: proje genelinde geçerli teknik ve iş kurallarının tek sayfa özeti
-- `asistan-ve-codex-kuralları.md`: asistan/codex çalışma disiplini ve raporlama kuralları
+## Klasorler
+- `uygulama-dokumanlari/`: Android uygulamasi, testler, changelog ve faz planlari
+- `web-dokumanlari/`: barkod.space web uygulamasi, API ve deployment dokumanlari
+- `gelistirici-dokumanlari/`: hizli kurulum, mimari ozeti, API referansi, ozellik listesi, roadmap
+- `web-dokumanlari/hata-kayitlari/`: gecmis hata dokumleri ve log arsivi
 
-## Not
-- Android kaynak kodu `market-pos-app/` altındadır.
-- Web kaynak kodu `web-application/` altındadır.
-- Web patch dosyaları `web-application/update/` altında tutulur.
+## Temel Dosyalar
+- `proje-kurallari.md`: proje genelinde gecerli teknik ve is kurallari
+- `asistan-ve-codex-kuralları.md`: asistan/codex calisma disiplini ve raporlama kurallari
 
+## Notlar
+- Android kaynak kodu `market-pos-app/` altindadir.
+- Web kaynak kodu `web-application/` altindadir.
+- Web patch dosyalari standartta `web-application/update/` altinda tutulur (bu temiz backupta dahil degildir).
