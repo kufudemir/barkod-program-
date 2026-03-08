@@ -89,9 +89,20 @@ Detayli kurulum rehberi:
 ```
 
 ## Screenshots
-Asagidaki gorsel proje dokumanlarindaki ornek seri tarama ekran tasarimidir:
+Projeyi anlatmak icin uretilmis ozet ekran gorselleri:
 
-![Seri Tarama Tasarimi](dokumanlar/uygulama-dokumanlari/seri%20tarama%20sayfa%20tasar%C4%B1m%C4%B1.png)
+1. Platform genel bakis  
+![Platform Overview](dokumanlar/gelistirici-dokumanlari/ekran-goruntuleri/01-platform-overview.png)
+
+2. Mobil POS akisi  
+![Mobile POS Flow](dokumanlar/gelistirici-dokumanlari/ekran-goruntuleri/02-mobile-pos-flow.png)
+
+3. Web POS ve companion iliskisi  
+![Web POS Companion](dokumanlar/gelistirici-dokumanlari/ekran-goruntuleri/03-web-pos-companion.png)
+
+4. Senkron ve API mimarisi  
+![Sync API Architecture](dokumanlar/gelistirici-dokumanlari/ekran-goruntuleri/04-sync-api-architecture.png)
+
 
 ## API Overview
 Base URL:
