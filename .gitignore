@@ -1,0 +1,29 @@
+.gradle/
+.kotlin/
+
+# Android Studio / IntelliJ local files
+.idea/caches/
+.idea/workspace.xml
+.idea/deploymentTargetSelector.xml
+
+# VS Code local deployment configs
+.vscode/ftp-sync.json
+.vscode/sftp.json
+
+# Android local build outputs
+market-pos-app/build/
+market-pos-app/.cxx/
+local.properties
+
+# Web local environment and logs
+web-application/.env
+web-application/storage/logs/*.log
+
+
+# GitHub-ready backup excludes
+**/*.apk
+**/*.aab
+**/vendor/
+web-application/update/
+web-application/public/app-updates/android/
+dokumanlar/oturum-kayitlari/codex-sessions/

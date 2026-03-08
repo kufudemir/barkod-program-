@@ -1,0 +1,850 @@
+﻿# Dokuman Tarama Katalogu
+
+Tarama zamani: 2026-03-08T07:56:13.0872249+03:00
+Toplam dokuman: 133
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\asistan-ve-codex-kuralları.md
+- bytes: 2567
+- ilk basliklar:
+  - # Asistan ve Codex Calisma Kurallari
+  - ## 1) Kapsam ve Kaynak
+  - ## 2) Is Analizi ve Planlama
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\codex-sessions\2026-02-27\konusma-gecmisi-2026-02-27.md
+- bytes: 958277
+- ilk basliklar:
+  - # Konusma Gecmisi (User/Assistant)
+  - ## [2026-02-27T15:51:10.230Z] USER
+  - # AGENTS.md instructions for c:\Users\Ufuk\Desktop\barkod programı
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\codex-sessions\2026-02-27\konusma-gecmisi-2026-02-27-temiz.md
+- bytes: 1031213
+- ilk basliklar:
+  - # Konusma Gecmisi (Temiz)
+  - ## [2026-02-27T15:51:10.230Z] USER
+  - ## [2026-02-27T15:51:16.686Z] ASSÄ°STANT
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\README.md
+- bytes: 774
+- ilk basliklar:
+  - # Oturum Kayitlari
+  - ## 2026-03-05
+  - ## Codex Sessions (JSONL)
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\proje-kurallari.md
+- bytes: 11117
+- ilk basliklar:
+  - # KolayKasa Proje Kuralları
+  - ## 1) Kaynak Doküman Kuralı
+  - ## 2) Ürün ve Kapsam Kuralı
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\README.md
+- bytes: 714
+- ilk basliklar:
+  - # Dokümanlar
+  - ## Klasörler
+  - ## Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\changelog.md
+- bytes: 24071
+- ilk basliklar:
+  - # Değişiklik Geçmişi
+  - ## 1.03.01
+  - ## Web Patch v1.03.01
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\codex-gelistirme-plani.md
+- bytes: 513
+- ilk basliklar:
+  - # Codex Geliştirme Planı
+  - ## Çalışma İlkeleri
+  - ## Uygulama Sırası
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\eklenebilecek-ozellikler.md
+- bytes: 758
+- ilk basliklar:
+  - # Eklenebilecek Özellikler
+  - ## Operasyonel İyileştirmeler
+  - ## Veri ve Senkron
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\ekran-akis-diyagrami.md
+- bytes: 529
+- ilk basliklar:
+  - # Ekran Akış Diyagramı
+  - ## Açılış
+  - ## Ürün Bulma
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari.md
+- bytes: 482
+- ilk basliklar:
+  - # Geliştirme Fazları
+  - ## Faz 1
+  - ## Faz 2
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v2.md
+- bytes: 424
+- ilk basliklar:
+  - # Geliştirme Fazları V2
+  - ## Faz 1
+  - ## Faz 2
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v3.md
+- bytes: 1859
+- ilk basliklar:
+  - # Geliştirme Fazları V3
+  - ## Faz 1: Kullanıcı Hesabı, Oturum ve Veri Sahipliği
+  - ## Faz 2: Firma ve Cihaz Geçmişi Yönetimi
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v4-web-pos-parity.md
+- bytes: 19638
+- ilk basliklar:
+  - # KolayKasa V4 Web POS Parity Planı
+  - ## Özet
+  - ## Nihai Ürün Konumu
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\kapsamli-test-listesi.md
+- bytes: 1094
+- ilk basliklar:
+  - # Kapsamlı Test Listesi
+  - ## Oturum ve Aktivasyon
+  - ## Barkod ve Ürün
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\KolayKasa V4 Birleşik Planı.md
+- bytes: 20754
+- ilk basliklar:
+  - # KolayKasa V4 Birleşik Planı
+  - ## Özet
+  - ## 1. Nihai Ürün Konumu
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\program özellikleri.md
+- bytes: 7658
+- ilk basliklar:
+  - # KolayKasa Özellikleri
+  - ## Genel Sistem
+  - ## Oturum ve Hesap
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\room-entity-plani.md
+- bytes: 639
+- ilk basliklar:
+  - # Room Entity Planı
+  - ## Ana Tablolar
+  - ## Ürün
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\tarama-sonuclari.md
+- bytes: 595
+- ilk basliklar:
+  - # Tarama Sonuçları
+  - ## Kapatılan Riskler
+  - ## İzlenecek Konular
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\teknik-mimari.md
+- bytes: 585
+- ilk basliklar:
+  - # Teknik Mimari
+  - ## Android
+  - ## Web
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\test-sonrasi-is-listesi.md
+- bytes: 516
+- ilk basliklar:
+  - # Test Sonrası İş Listesi
+  - ## Kapatılan Başlıklar
+  - ## Açık Başlıklar
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\aktivasyon-akisi.md
+- bytes: 700
+- ilk basliklar:
+  - # Aktivasyon Akışı
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\deployment-notlari.md
+- bytes: 2168
+- ilk basliklar:
+  - # Deployment Notları
+  - ## Sunucu Varsayımları
+  - ## İlk Kurulum
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-api-sozlesmesi.md
+- bytes: 10581
+- ilk basliklar:
+  - # Web API Sözleşmesi
+  - ## Mevcut Kimlik ve Oturum API'leri
+  - ### POST /api/v1/auth/register
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-uygulama-sirasi.md
+- bytes: 620
+- ilk basliklar:
+  - # barkod.space Web Uygulama Sırası
+  - ## Faz 1
+  - ## Faz 2
+
+## C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-veri-modeli.md
+- bytes: 7293
+- ilk basliklar:
+  - # Web Veri Modeli
+  - ## Mevcut Çekirdek Tablolar
+  - ### companies
+
+## C:\Users\Ufuk\Desktop\barkod programı\README.md
+- bytes: 1086
+- ilk basliklar:
+  - # Market POS
+  - ## Ana Klasörler
+  - ## Dokümanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\tools\license-generator\README.md
+- bytes: 1368
+- ilk basliklar:
+  - # License Generator
+  - ## 1) Anahtar Olustur
+  - ## 2) Lisans Uret
+
+## C:\Users\Ufuk\Desktop\barkod programı\tools\README.md
+- bytes: 636
+- ilk basliklar:
+  - # Tools
+  - ## Klasörler
+  - ## Standart
+
+## C:\Users\Ufuk\Desktop\barkod programı\tools\web-patch-yardim\README.md
+- bytes: 663
+- ilk basliklar:
+  - # Web Patch Yardımı
+  - ## Amaç
+  - ## Standart
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\dokumanlar\README.md
+- bytes: 500
+- ilk basliklar:
+  - # Web Dokümanları
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\public\robots.txt
+- bytes: 24
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\README.md
+- bytes: 3911
+- ilk basliklar:
+  - ## About Laravel
+  - ## Learning Laravel
+  - ## Laravel Sponsors
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\_indeks\patch-indeksi.md
+- bytes: 1533
+- ilk basliklar:
+  - # Patch İndeksi
+  - ## Aktif Kural
+  - ## Mevcut Patchler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\_sablonlar\PATCH-README-SABLONU.md
+- bytes: 496
+- ilk basliklar:
+  - # Patch Notu
+  - ## Patch
+  - ## İçerik
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\README.md
+- bytes: 1238
+- ilk basliklar:
+  - # Web Patch Klasörü
+  - ## Yapı
+  - ## İsimlendirme Kuralı
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.53\README.md
+- bytes: 529
+- ilk basliklar:
+  - # v1.0.53 Web Patch
+  - ## Sunucuya Atarken
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\dokumanlar\aktivasyon-akisi.md
+- bytes: 972
+- ilk basliklar:
+  - # Aktivasyon Akisi
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\dokumanlar\web-api-sozlesmesi.md
+- bytes: 2303
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\README.md
+- bytes: 541
+- ilk basliklar:
+  - # v1.0.54 Web Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.55\dokumanlar\web-api-sozlesmesi.md
+- bytes: 2413
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.55\README.md
+- bytes: 264
+- ilk basliklar:
+  - # v1.0.55 Web Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\dokumanlar\aktivasyon-akisi.md
+- bytes: 1078
+- ilk basliklar:
+  - # Aktivasyon Akisi
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\dokumanlar\web-api-sozlesmesi.md
+- bytes: 3308
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\README.md
+- bytes: 591
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\dokumanlar\deployment-notlari.md
+- bytes: 2555
+- ilk basliklar:
+  - # Deployment Notlari
+  - ## Hosting Varsay?mi
+  - ## Onemli Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\dokumanlar\web-api-sozlesmesi.md
+- bytes: 3830
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\README.md
+- bytes: 747
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.58\README.md
+- bytes: 622
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\dokumanlar\aktivasyon-akisi.md
+- bytes: 1502
+- ilk basliklar:
+  - # Aktivasyon Akisi
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\dokumanlar\web-api-sozlesmesi.md
+- bytes: 4702
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\README.md
+- bytes: 483
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\dokumanlar\aktivasyon-akisi.md
+- bytes: 1502
+- ilk basliklar:
+  - # Aktivasyon Akisi
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\dokumanlar\web-api-sozlesmesi.md
+- bytes: 4814
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\README.md
+- bytes: 485
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61\dokumanlar\deployment-notlari.md
+- bytes: 2963
+- ilk basliklar:
+  - # Deployment Notlari
+  - ## Hosting Varsay?mi
+  - ## Onemli Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61\README.md
+- bytes: 413
+- ilk basliklar:
+  - # v1.0.61 Web Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61-hotfix1\README.md
+- bytes: 155
+- ilk basliklar:
+  - # v1.0.61-hotfix1 Web Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61-hotfix2\README.md
+- bytes: 155
+- ilk basliklar:
+  - # v1.0.61-hotfix2 Web Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.62\README.md
+- bytes: 197
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\dokumanlar\deployment-notlari.md
+- bytes: 3142
+- ilk basliklar:
+  - # Deployment Notlari
+  - ## Hosting Varsay?mi
+  - ## Onemli Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\dokumanlar\web-api-sozlesmesi.md
+- bytes: 5241
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\README.md
+- bytes: 838
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\dokumanlar\deployment-notlari.md
+- bytes: 3142
+- ilk basliklar:
+  - # Deployment Notlari
+  - ## Hosting Varsay?mi
+  - ## Onemli Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\dokumanlar\web-api-sozlesmesi.md
+- bytes: 5241
+- ilk basliklar:
+  - # Web API Sozlesmesi
+  - ## POST /api/v1/auth/register
+  - ## POST /api/v1/auth/login
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\README.md
+- bytes: 838
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.64\README.md
+- bytes: 410
+- ilk basliklar:
+  - # v1.0.64 Patch
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\aktivasyon-akisi.md
+- bytes: 700
+- ilk basliklar:
+  - # Aktivasyon Akışı
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\deployment-notlari.md
+- bytes: 1395
+- ilk basliklar:
+  - # Deployment Notları
+  - ## Sunucu Varsayımları
+  - ## İlk Kurulum
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-api-sozlesmesi.md
+- bytes: 1477
+- ilk basliklar:
+  - # Web API Sözleşmesi
+  - ## Kimlik ve Oturum
+  - ### POST /api/v1/auth/register
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-uygulama-sirasi.md
+- bytes: 620
+- ilk basliklar:
+  - # barkod.space Web Uygulama Sırası
+  - ## Faz 1
+  - ## Faz 2
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-veri-modeli.md
+- bytes: 1527
+- ilk basliklar:
+  - # Web Veri Modeli
+  - ## companies
+  - ## devices
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\README.md
+- bytes: 485
+- ilk basliklar:
+  - # v1.0.65 Web Patch
+  - ## İçerik
+  - ## Not
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\dokumanlar\web-dokumanlari\web-api-sozlesmesi.md
+- bytes: 1606
+- ilk basliklar:
+  - # Web API Sözleşmesi
+  - ## Kimlik ve Oturum
+  - ### POST /api/v1/auth/register
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\dokumanlar\web-dokumanlari\web-veri-modeli.md
+- bytes: 1540
+- ilk basliklar:
+  - # Web Veri Modeli
+  - ## companies
+  - ## devices
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\README.md
+- bytes: 1019
+- ilk basliklar:
+  - # v1.0.66 Patch Notu
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix1\README.md
+- bytes: 670
+- ilk basliklar:
+  - # v1.0.66-hotfix1
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix2\README.md
+- bytes: 351
+- ilk basliklar:
+  - # v1.0.66-hotfix2
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix3\README.md
+- bytes: 389
+- ilk basliklar:
+  - # v1.0.66-hotfix3
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix4\README.md
+- bytes: 411
+- ilk basliklar:
+  - # v1.0.66-hotfix4
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix5\README.md
+- bytes: 348
+- ilk basliklar:
+  - # v1.0.66-hotfix5
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix6\README.md
+- bytes: 425
+- ilk basliklar:
+  - # v1.0.66-hotfix6
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix7\README.md
+- bytes: 517
+- ilk basliklar:
+  - # v1.0.66-hotfix7
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix8\README.md
+- bytes: 328
+- ilk basliklar:
+  - # v1.0.66-hotfix8
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\dokumanlar\deployment-notlari.md
+- bytes: 1605
+- ilk basliklar:
+  - # Deployment Notları
+  - ## Sunucu Varsayımları
+  - ## İlk Kurulum
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\dokumanlar\web-api-sozlesmesi.md
+- bytes: 1955
+- ilk basliklar:
+  - # Web API Sözleşmesi
+  - ## Kimlik ve Oturum
+  - ### POST /api/v1/auth/register
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\README.md
+- bytes: 764
+- ilk basliklar:
+  - # v1.0.67
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\changelog.md
+- bytes: 5890
+- ilk basliklar:
+  - # Changelog
+  - ## Web Patch v1.0.67-hotfix1
+  - ## 1.0.67
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\gelistirme-fazlari-v3.md
+- bytes: 1859
+- ilk basliklar:
+  - # Geliştirme Fazları V3
+  - ## Faz 1: Kullanıcı Hesabı, Oturum ve Veri Sahipliği
+  - ## Faz 2: Firma ve Cihaz Geçmişi Yönetimi
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\program özellikleri.md
+- bytes: 5296
+- ilk basliklar:
+  - # Market POS Özellikleri
+  - ## Genel Sistem
+  - ## Oturum ve Hesap
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\web-veri-modeli.md
+- bytes: 1938
+- ilk basliklar:
+  - # Web Veri Modeli
+  - ## companies
+  - ## devices
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\README.md
+- bytes: 744
+- ilk basliklar:
+  - # v1.0.67-hotfix1
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix2\README.md
+- bytes: 477
+- ilk basliklar:
+  - # v1.0.67-hotfix2
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.68\README.md
+- bytes: 1073
+- ilk basliklar:
+  - # v1.0.68
+  - ## Icerik
+  - ## Kurulum
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.69\README.md
+- bytes: 979
+- ilk basliklar:
+  - # v1.0.69
+  - ## Icerik
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.69-hotfix1\README.md
+- bytes: 1060
+- ilk basliklar:
+  - # v1.0.69-hotfix1
+  - ## Icerik
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.70\README.md
+- bytes: 1055
+- ilk basliklar:
+  - # Web Patch v1.0.70
+  - ## İçerik
+  - ## Migration
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.71\README.md
+- bytes: 925
+- ilk basliklar:
+  - # Web Patch v1.0.71
+  - ## İçerik
+  - ## Durum Akışı
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.72\README.md
+- bytes: 817
+- ilk basliklar:
+  - # Web Patch v1.0.72
+  - ## İçerik
+  - ## Migration
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73\README.md
+- bytes: 922
+- ilk basliklar:
+  - # Web Patch v1.0.73
+  - ## İçerik
+  - ## Route'lar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix1\README.md
+- bytes: 733
+- ilk basliklar:
+  - # Web Patch v1.0.73-hotfix1
+  - ## Problem
+  - ## Düzeltme
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix2\README.md
+- bytes: 920
+- ilk basliklar:
+  - # v1.0.73-hotfix2
+  - ## Dahil Dosyalar
+  - ## Yapılan Düzeltmeler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix3\README.md
+- bytes: 941
+- ilk basliklar:
+  - # v1.0.73-hotfix3
+  - ## Dahil Dosya
+  - ## Yapılan Düzeltme
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix4\README.md
+- bytes: 1077
+- ilk basliklar:
+  - # v1.0.73-hotfix4
+  - ## Dahil Dosyalar
+  - ## Yapılan Düzeltmeler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix5\README.md
+- bytes: 1364
+- ilk basliklar:
+  - # v1.0.73-hotfix5
+  - ## Dahil Dosyalar
+  - ## Yapılan Düzeltmeler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix6\README.md
+- bytes: 1142
+- ilk basliklar:
+  - # v1.0.73-hotfix6
+  - ## Dahil Dosyalar
+  - ## Yapilan Degisiklikler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.74\README.md
+- bytes: 1683
+- ilk basliklar:
+  - # v1.0.74
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75\README.md
+- bytes: 1494
+- ilk basliklar:
+  - # v1.0.75
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix1\README.md
+- bytes: 978
+- ilk basliklar:
+  - # v1.0.75-hotfix1
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix10\README.txt
+- bytes: 533
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix2\README.md
+- bytes: 1068
+- ilk basliklar:
+  - # v1.0.75-hotfix2
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix3\README.md
+- bytes: 762
+- ilk basliklar:
+  - # v1.0.75-hotfix3
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix4\README.md
+- bytes: 765
+- ilk basliklar:
+  - # v1.0.75-hotfix4
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix5\README.md
+- bytes: 929
+- ilk basliklar:
+  - # v1.0.75-hotfix5
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix6\README.md
+- bytes: 611
+- ilk basliklar:
+  - # v1.0.75-hotfix6
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix7\README.md
+- bytes: 1348
+- ilk basliklar:
+  - # v1.0.75-hotfix7
+  - ## Dahil Dosyalar
+  - ## Yapilanlar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix8\README.txt
+- bytes: 248
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix9\README.txt
+- bytes: 299
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.76\README.txt
+- bytes: 411
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.77\README.txt
+- bytes: 257
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.78\README.txt
+- bytes: 741
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.79\README.txt
+- bytes: 711
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.79-hotfix1\README.txt
+- bytes: 288
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.80\README.md
+- bytes: 855
+- ilk basliklar:
+  - # v1.0.80 Patch Notu
+  - ## Kapsam
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.81\README.md
+- bytes: 1380
+- ilk basliklar:
+  - (heading yok)
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.82\README.md
+- bytes: 424
+- ilk basliklar:
+  - # v1.0.82 Patch Notlari
+  - ## Kapsam
+  - ## Sunucuya Yuklenecekler
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.83\README.md
+- bytes: 1242
+- ilk basliklar:
+  - # v1.0.83 Patch Notlari
+  - ## Kapsam
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.83-hotfix1\README.md
+- bytes: 368
+- ilk basliklar:
+  - # v1.0.83-hotfix1
+  - ## Kapsam
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.84\README.md
+- bytes: 1286
+- ilk basliklar:
+  - # v1.0.84 Patch Notlari
+  - ## Kapsam
+  - ## Degisen Dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.01.01\README.md
+- bytes: 941
+- ilk basliklar:
+  - # Web Patch v1.01.01
+  - ## Kapsam
+  - ## Dahil edilen dosyalar
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.01.02\README.md
+- bytes: 913
+- ilk basliklar:
+  - # Web Patch v1.01.02
+  - ## Icerik
+  - ## Dikkat
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.02.01\README.md
+- bytes: 822
+- ilk basliklar:
+  - # v1.02.01 Patch Notlari
+  - ## Icerik
+  - ## Migration
+
+## C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.03.01\README.md
+- bytes: 468
+- ilk basliklar:
+  - # v1.03.01 Patch Notlari
+  - ## Icerik
+  - ## Migration
+
+

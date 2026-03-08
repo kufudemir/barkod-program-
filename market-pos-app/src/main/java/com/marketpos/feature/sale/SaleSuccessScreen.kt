@@ -1,0 +1,35 @@
+﻿package com.marketpos.feature.sale
+
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Button
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+
+@Composable
+fun SaleSuccessScreen(
+    saleId: Long,
+    onNewSale: () -> Unit
+) {
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(16.dp),
+        verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text("Satış Başarılı", style = MaterialTheme.typography.headlineSmall)
+        Text("Satış No: $saleId")
+        Button(onClick = onNewSale, modifier = Modifier.fillMaxWidth().padding(top = 16.dp)) {
+            Text("Yeni Satış")
+        }
+    }
+}
+

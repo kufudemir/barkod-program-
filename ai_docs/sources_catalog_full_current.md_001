@@ -1,0 +1,467 @@
+﻿# Full Dokuman Kaynak Listesi
+
+Tarama zamani: 2026-03-08T07:57:09.8815018+03:00
+Toplam: 461
+
+- C:\Users\Ufuk\Desktop\barkod programı\.vscode\README.md | 364 bytes | # VS Code Ayarları
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\asistan-ve-codex-kuralları.md | 2567 bytes | # Asistan ve Codex Calisma Kurallari
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\codex-sessions\2026-02-27\konusma-gecmisi-2026-02-27.md | 958277 bytes | # Konusma Gecmisi (User/Assistant)
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\codex-sessions\2026-02-27\konusma-gecmisi-2026-02-27-temiz.md | 1031213 bytes | # Konusma Gecmisi (Temiz)
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\README.md | 774 bytes | # Oturum Kayitlari
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\proje-kurallari.md | 11117 bytes | # KolayKasa Proje Kuralları
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\README.md | 714 bytes | # Dokümanlar
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\changelog.md | 24071 bytes | # Değişiklik Geçmişi
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\codex-gelistirme-plani.md | 513 bytes | # Codex Geliştirme Planı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\eklenebilecek-ozellikler.md | 758 bytes | # Eklenebilecek Özellikler
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\ekran-akis-diyagrami.md | 529 bytes | # Ekran Akış Diyagramı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari.md | 482 bytes | # Geliştirme Fazları
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v2.md | 424 bytes | # Geliştirme Fazları V2
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v3.md | 1859 bytes | # Geliştirme Fazları V3
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\gelistirme-fazlari-v4-web-pos-parity.md | 19638 bytes | # KolayKasa V4 Web POS Parity Planı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\kapsamli-test-listesi.md | 1094 bytes | # Kapsamlı Test Listesi
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\KolayKasa V4 Birleşik Planı.md | 20754 bytes | # KolayKasa V4 Birleşik Planı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\program özellikleri.md | 7658 bytes | # KolayKasa Özellikleri
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\room-entity-plani.md | 639 bytes | # Room Entity Planı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\tarama-sonuclari.md | 595 bytes | # Tarama Sonuçları
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\teknik-mimari.md | 585 bytes | # Teknik Mimari
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\uygulama-dokumanlari\test-sonrasi-is-listesi.md | 516 bytes | # Test Sonrası İş Listesi
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\aktivasyon-akisi.md | 700 bytes | # Aktivasyon Akışı
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\deployment-notlari.md | 2168 bytes | # Deployment Notları
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-api-sozlesmesi.md | 10581 bytes | # Web API Sözleşmesi
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-uygulama-sirasi.md | 620 bytes | # barkod.space Web Uygulama Sırası
+- C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\web-dokumanlari\web-veri-modeli.md | 7293 bytes | # Web Veri Modeli
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\apk_ide_redirect_file\debug\createDebugApkListingFileRedirect\redirect.txt | 83 bytes | #- File Locator -
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\incremental\packageDebug\tmp\debug\dex-renamer-state.txt | 3598 bytes | #Sun Mar 08 07:09:17 TRT 2026
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\local_only_symbol_list\debug\parseDebugLocalResources\R-def.txt | 106 bytes | R_DEF: Internal format may change without notice
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\manifest_merge_blame_file\debug\processDebugMainManifest\manifest-merger-blame-debug-report.txt | 52568 bytes | 1<?xml version="1.0" encoding="utf-8"?>
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\nested_resources_validation_report\debug\generateDebugResources\nestedResourcesValidationReport.txt | 15 bytes | 0 Warning/Error
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\runtime_symbol_list\debug\processDebugResources\R.txt | 382763 bytes | int anim abc_fade_in 0x7f010000
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\source_set_path_map\debug\mapDebugSourceSetPaths\file-map.txt | 12856 bytes | com.marketpos.app-jetified-material-0 C:\Users\Ufuk\.gradle\caches\transforms-4\03a104e3867ee17b186322769c45d1b7\transfo ...
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\stable_resource_ids_file\debug\processDebugResources\stableIds.txt | 372491 bytes | com.marketpos:styleable/ViewPager2 = 0x7f1000a1
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\intermediates\symbol_list_with_package_name\debug\processDebugResources\package-aware-r.txt | 228280 bytes | com.marketpos
+- C:\Users\Ufuk\Desktop\barkod programı\market-pos-app\build\outputs\logs\manifest-merger-debug-report.txt | 144894 bytes | -- Merging decision tree log ---
+- C:\Users\Ufuk\Desktop\barkod programı\README.md | 1086 bytes | # Market POS
+- C:\Users\Ufuk\Desktop\barkod programı\tools\license-generator\README.md | 1368 bytes | # License Generator
+- C:\Users\Ufuk\Desktop\barkod programı\tools\README.md | 636 bytes | # Tools
+- C:\Users\Ufuk\Desktop\barkod programı\tools\web-patch-yardim\README.md | 663 bytes | # Web Patch Yardımı
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\dokumanlar\README.md | 500 bytes | # Web Dokümanları
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\public\robots.txt | 24 bytes | User-agent: *
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\README.md | 3911 bytes | <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/ ...
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\_indeks\patch-indeksi.md | 1533 bytes | # Patch İndeksi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\_sablonlar\PATCH-README-SABLONU.md | 496 bytes | # Patch Notu
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\README.md | 1238 bytes | # Web Patch Klasörü
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.53\README.md | 529 bytes | # v1.0.53 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\dokumanlar\aktivasyon-akisi.md | 972 bytes | # Aktivasyon Akisi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\dokumanlar\web-api-sozlesmesi.md | 2303 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.54\README.md | 541 bytes | # v1.0.54 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.55\dokumanlar\web-api-sozlesmesi.md | 2413 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.55\README.md | 264 bytes | # v1.0.55 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\dokumanlar\aktivasyon-akisi.md | 1078 bytes | # Aktivasyon Akisi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\dokumanlar\web-api-sozlesmesi.md | 3308 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.56\README.md | 591 bytes | v1.0.56 web patch icerigi:
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\dokumanlar\deployment-notlari.md | 2555 bytes | # Deployment Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\dokumanlar\web-api-sozlesmesi.md | 3830 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.57\README.md | 747 bytes | v1.0.57 web patch icerigi:
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.58\README.md | 622 bytes | Bu patch sadece web tarafindaki mail/?ifre sifirlama hotfix'idir.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\dokumanlar\aktivasyon-akisi.md | 1502 bytes | # Aktivasyon Akisi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\dokumanlar\web-api-sozlesmesi.md | 4702 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.59\README.md | 483 bytes | Bu patch web tarafinda kay?tli kullanicinin firma gecmisi ve bulut katalog geri yukleme API'lerini ekler.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\dokumanlar\aktivasyon-akisi.md | 1502 bytes | # Aktivasyon Akisi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\dokumanlar\web-api-sozlesmesi.md | 4814 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.60\README.md | 485 bytes | Bu patch su sorunlari duzeltir:
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61\dokumanlar\deployment-notlari.md | 2963 bytes | # Deployment Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61\README.md | 413 bytes | # v1.0.61 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61-hotfix1\README.md | 155 bytes | # v1.0.61-hotfix1 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.61-hotfix2\README.md | 155 bytes | # v1.0.61-hotfix2 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.62\README.md | 197 bytes | Bu patch, Android 1.0.62 surumunu web uzerinden dagitmak icin gereklidir.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\dokumanlar\deployment-notlari.md | 3142 bytes | # Deployment Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\dokumanlar\web-api-sozlesmesi.md | 5241 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63\README.md | 838 bytes | Bu patch Faz 2 kapsamindaki web degisiklikleri ve Android 1.0.63 dagitimi icindir.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\dokumanlar\deployment-notlari.md | 3142 bytes | # Deployment Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\dokumanlar\web-api-sozlesmesi.md | 5241 bytes | # Web API Sozlesmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.63-hotfix1\README.md | 838 bytes | Bu patch Faz 2 kapsamindaki web degisiklikleri ve Android 1.0.63 dagitimi icindir.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.64\README.md | 410 bytes | # v1.0.64 Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\aktivasyon-akisi.md | 700 bytes | # Aktivasyon Akışı
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\deployment-notlari.md | 1395 bytes | # Deployment Notları
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-api-sozlesmesi.md | 1477 bytes | # Web API Sözleşmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-uygulama-sirasi.md | 620 bytes | # barkod.space Web Uygulama Sırası
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\dokumanlar\web-veri-modeli.md | 1527 bytes | # Web Veri Modeli
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.65\README.md | 485 bytes | # v1.0.65 Web Patch
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\dokumanlar\web-dokumanlari\web-api-sozlesmesi.md | 1606 bytes | # Web API Sözleşmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\dokumanlar\web-dokumanlari\web-veri-modeli.md | 1540 bytes | # Web Veri Modeli
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66\README.md | 1019 bytes | # v1.0.66 Patch Notu
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix1\README.md | 670 bytes | # v1.0.66-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix2\README.md | 351 bytes | # v1.0.66-hotfix2
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix3\README.md | 389 bytes | # v1.0.66-hotfix3
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix4\README.md | 411 bytes | # v1.0.66-hotfix4
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix5\README.md | 348 bytes | # v1.0.66-hotfix5
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix6\README.md | 425 bytes | # v1.0.66-hotfix6
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix7\README.md | 517 bytes | # v1.0.66-hotfix7
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.66-hotfix8\README.md | 328 bytes | # v1.0.66-hotfix8
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\dokumanlar\deployment-notlari.md | 1605 bytes | # Deployment Notları
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\dokumanlar\web-api-sozlesmesi.md | 1955 bytes | # Web API Sözleşmesi
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67\README.md | 764 bytes | # v1.0.67
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\changelog.md | 5890 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\gelistirme-fazlari-v3.md | 1859 bytes | # Geliştirme Fazları V3
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\program özellikleri.md | 5296 bytes | # Market POS Özellikleri
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\dokumanlar\web-veri-modeli.md | 1938 bytes | # Web Veri Modeli
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix1\README.md | 744 bytes | # v1.0.67-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.67-hotfix2\README.md | 477 bytes | # v1.0.67-hotfix2
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.68\README.md | 1073 bytes | # v1.0.68
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.69\README.md | 979 bytes | # v1.0.69
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.69-hotfix1\README.md | 1060 bytes | # v1.0.69-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.70\README.md | 1055 bytes | # Web Patch v1.0.70
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.71\README.md | 925 bytes | # Web Patch v1.0.71
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.72\README.md | 817 bytes | # Web Patch v1.0.72
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73\README.md | 922 bytes | # Web Patch v1.0.73
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix1\README.md | 733 bytes | # Web Patch v1.0.73-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix2\README.md | 920 bytes | # v1.0.73-hotfix2
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix3\README.md | 941 bytes | # v1.0.73-hotfix3
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix4\README.md | 1077 bytes | # v1.0.73-hotfix4
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix5\README.md | 1364 bytes | # v1.0.73-hotfix5
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.73-hotfix6\README.md | 1142 bytes | # v1.0.73-hotfix6
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.74\README.md | 1683 bytes | # v1.0.74
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75\README.md | 1494 bytes | # v1.0.75
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix1\README.md | 978 bytes | # v1.0.75-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix10\README.txt | 533 bytes | Web Patch: v1.0.75-hotfix10
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix2\README.md | 1068 bytes | # v1.0.75-hotfix2
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix3\README.md | 762 bytes | # v1.0.75-hotfix3
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix4\README.md | 765 bytes | # v1.0.75-hotfix4
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix5\README.md | 929 bytes | # v1.0.75-hotfix5
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix6\README.md | 611 bytes | # v1.0.75-hotfix6
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix7\README.md | 1348 bytes | # v1.0.75-hotfix7
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix8\README.txt | 248 bytes | Web Patch v1.0.75-hotfix8
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.75-hotfix9\README.txt | 299 bytes | Web Patch: v1.0.75-hotfix9
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.76\README.txt | 411 bytes | Web Patch: v1.0.76
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.77\README.txt | 257 bytes | Web Patch: v1.0.77
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.78\README.txt | 741 bytes | Web Patch: v1.0.78
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.79\README.txt | 711 bytes | Web Patch: v1.0.79
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.79-hotfix1\README.txt | 288 bytes | Web Patch: v1.0.79-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.80\README.md | 855 bytes | # v1.0.80 Patch Notu
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.81\README.md | 1380 bytes | Patch: v1.0.81
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.82\README.md | 424 bytes | # v1.0.82 Patch Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.83\README.md | 1242 bytes | # v1.0.83 Patch Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.83-hotfix1\README.md | 368 bytes | # v1.0.83-hotfix1
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.0.84\README.md | 1286 bytes | # v1.0.84 Patch Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.01.01\README.md | 941 bytes | # Web Patch v1.01.01
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.01.02\README.md | 913 bytes | # Web Patch v1.01.02
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.02.01\README.md | 822 bytes | # v1.02.01 Patch Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\update\v1.03.01\README.md | 468 bytes | # v1.03.01 Patch Notlari
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\anourvalar\eloquent-serialize\README.md | 474 bytes | # Serialization for Eloquent's QueryBuilder
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\blade-ui-kit\blade-heroicons\LICENSE.md | 1073 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\blade-ui-kit\blade-icons\LICENSE.md | 1073 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\blade-ui-kit\blade-icons\SECURITY.md | 386 bytes | # Security Policy
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\brick\math\CHANGELOG.md | 25694 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\carbonphp\carbon-doctrine-types\README.md | 520 bytes | # carbonphp/carbon-doctrine-types
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\chillerlan\php-qrcode\README.md | 8191 bytes | # chillerlan/php-qrcode
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\chillerlan\php-settings-container\README.md | 9018 bytes | # chillerlan/php-settings-container
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\date-format-converter\.github\ISSUE_TEMPLATE\bug_report.md | 522 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\date-format-converter\CODE_OF_CONDUCT.md | 3343 bytes | # Contributor Covenant Code of Conduct
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\date-format-converter\LICENSE.md | 1064 bytes | # MIT License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\date-format-converter\README.md | 1200 bytes | <p align="center">
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\date-format-converter\SECURITY.md | 352 bytes | # Security Policy
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\livewire-rate-limiting\CODE_OF_CONDUCT.md | 3343 bytes | # Contributor Covenant Code of Conduct
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\livewire-rate-limiting\LICENSE.md | 1064 bytes | # MIT License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\livewire-rate-limiting\README.md | 4901 bytes | <p align="center">
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\danharrin\livewire-rate-limiting\SECURITY.md | 410 bytes | # Security Policy
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\dflydev\dot-access-data\CHANGELOG.md | 2506 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\dflydev\dot-access-data\README.md | 3909 bytes | Dot Access Data
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\doctrine\inflector\docs\en\index.rst | 6550 bytes | Introduction
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\doctrine\inflector\README.md | 525 bytes | # Doctrine Inflector
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\doctrine\lexer\README.md | 367 bytes | # Doctrine Lexer
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\doctrine\lexer\UPGRADE.md | 962 bytes | Note about upgrading: Doctrine uses static and runtime mechanisms to raise
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\dragonmantank\cron-expression\CHANGELOG.md | 6544 bytes | # Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\dragonmantank\cron-expression\README.md | 5802 bytes | PHP Cron Expression Parser
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\egulias\email-validator\CONTRIBUTING.md | 6510 bytes | # Contributing
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\01-overview.md | 26093 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\02-modals.md | 30296 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\03-grouping-actions.md | 5568 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\04-create.md | 10273 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\05-edit.md | 6778 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\06-view.md | 1286 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\07-delete.md | 4410 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\08-replicate.md | 5659 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\09-force-delete.md | 4655 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\10-restore.md | 4517 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\11-import.md | 35742 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\actions\docs\12-export.md | 32590 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\filament\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\01-overview.md | 73937 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\02-text-input.md | 14989 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\03-select.md | 48199 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\04-checkbox.md | 3275 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\05-toggle.md | 4853 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\06-checkbox-list.md | 17604 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\07-radio.md | 5026 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\08-date-time-picker.md | 15186 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\09-file-upload.md | 35510 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\10-rich-editor.md | 43425 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\11-markdown-editor.md | 3674 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\12-repeater.md | 34875 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\13-builder.md | 24724 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\14-tags-input.md | 5741 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\15-textarea.md | 5120 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\16-key-value.md | 7019 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\17-color-picker.md | 1315 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\18-toggle-buttons.md | 11726 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\19-slider.md | 27719 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\20-code-editor.md | 1785 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\21-hidden.md | 411 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\22-custom-fields.md | 12114 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\forms\docs\23-validation.md | 22632 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\01-overview.md | 36782 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\02-text-entry.md | 29155 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\03-icon-entry.md | 4836 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\04-image-entry.md | 11081 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\05-color-entry.md | 1653 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\06-code-entry.md | 3859 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\07-key-value-entry.md | 2117 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\08-repeatable-entry.md | 5290 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\infolists\docs\09-custom-entries.md | 8905 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\notifications\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\notifications\docs\01-overview.md | 13237 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\notifications\docs\02-database-notifications.md | 5848 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\notifications\docs\03-broadcast-notifications.md | 2999 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\query-builder\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\01-overview.md | 10921 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\02-layouts.md | 19553 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\03-sections.md | 10338 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\04-tabs.md | 12536 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\05-wizards.md | 8990 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\06-callouts.md | 9706 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\07-empty-states.md | 3281 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\08-primes.md | 19534 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\schemas\docs\09-custom-components.md | 15487 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\support\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\01-overview.md | 20934 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\01-overview.md | 38369 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\02-text.md | 28748 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\03-icon.md | 5222 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\04-image.md | 11373 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\05-color.md | 2061 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\06-select.md | 20595 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\07-toggle.md | 829 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\08-text-input.md | 4220 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\09-checkbox.md | 840 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\02-columns\10-custom-columns.md | 4666 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\01-overview.md | 11803 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\02-select.md | 6095 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\03-ternary.md | 2732 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\04-query-builder.md | 19526 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\05-custom.md | 4906 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\03-filters\06-layout.md | 6826 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\04-actions.md | 19578 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\05-layout.md | 17388 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\06-summaries.md | 12684 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\07-grouping.md | 10310 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\08-empty-state.md | 2414 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\tables\docs\09-custom-data.md | 52471 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\widgets\.github\PULL_REQUEST_TEMPLATE.md | 283 bytes | Please do not submit any Pull Requests here. They will be closed.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\widgets\docs\01-overview.md | 11451 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\widgets\docs\02-stats-overview.md | 5250 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\filament\widgets\docs\03-charts.md | 14857 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\fruitcake\php-cors\README.md | 4045 bytes | # CORS for PHP (using the Symfony HttpFoundation)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\guzzle\CHANGELOG.md | 88102 bytes | # Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\guzzle\README.md | 5034 bytes | ![Guzzle](.github/logo.png?raw=true)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\guzzle\UPGRADING.md | 53625 bytes | Guzzle Upgrade Guide
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\promises\CHANGELOG.md | 2851 bytes | # CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\promises\README.md | 17638 bytes | # Guzzle Promises
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\psr7\CHANGELOG.md | 11755 bytes | # Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\psr7\README.md | 29495 bytes | # PSR-7 Message Implementation
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\uri-template\CHANGELOG.md | 1160 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\guzzlehttp\uri-template\README.md | 1310 bytes | # uri-template
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\kirschbaum-development\eloquent-power-joins\AGENTS.md | 1115 bytes | # Agent Guidelines for Eloquent Power Joins
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\kirschbaum-development\eloquent-power-joins\CHANGELOG.md | 752 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\kirschbaum-development\eloquent-power-joins\CONTRIBUTING.md | 2972 bytes | # Contributing
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\kirschbaum-development\eloquent-power-joins\LICENSE.md | 1064 bytes | MIT License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\kirschbaum-development\eloquent-power-joins\README.md | 13503 bytes | ![Eloquent Power Joins](screenshots/eloquent-power-joins.jpg "Eloquent Power Joins")
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\README.md | 3633 bytes | <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/ ...
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Auth\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Broadcasting\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Bus\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Cache\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Collections\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Concurrency\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Conditionable\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Config\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Console\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Container\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Contracts\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Cookie\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Database\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Database\README.md | 2208 bytes | ## Illuminate Database
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Encryption\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Events\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Filesystem\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Hashing\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Http\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\JsonSchema\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Log\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Macroable\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Mail\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Notifications\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Pagination\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Pipeline\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Process\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Queue\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Queue\README.md | 1217 bytes | ## Illuminate Queue
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Redis\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Reflection\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Routing\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Session\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Support\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Testing\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Translation\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\Validation\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\framework\src\Illuminate\View\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\prompts\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\prompts\README.md | 1982 bytes | <p align="center">
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\serializable-closure\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\serializable-closure\README.md | 2895 bytes | # Serializable Closure
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\tinker\LICENSE.md | 1075 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\laravel\tinker\README.md | 1542 bytes | <p align="center"><img width="321" height="80" src="/art/logo.svg" alt="Logo Laravel Tinker"></p>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\commonmark\CHANGELOG.md | 34967 bytes | # Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\commonmark\README.md | 12544 bytes | # league/commonmark
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\config\CHANGELOG.md | 1283 bytes | # Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\config\LICENSE.md | 1513 bytes | BSD 3-Clause License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\config\README.md | 7170 bytes | # league/config
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\flysystem\INFO.md | 139 bytes | View the docs at: https://flysystem.thephpleague.com/docs/
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\flysystem\readme.md | 3954 bytes | # League\Flysystem
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\league\mime-type-detection\CHANGELOG.md | 999 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\rules\adding-features.md | 8333 bytes | # Adding Features to Livewire
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\rules\general.md | 245 bytes | # General
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\rules\reviewing-prs.md | 512 bytes | # Reviewing PRs
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\rules\writing-docs.md | 601 bytes | # Writing Documentation
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\skills\review-pr\SKILL.md | 14473 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\skills\summarize-activity\SKILL.md | 6482 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\.claude\skills\test\SKILL.md | 173 bytes | ---
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\CLAUDE.md | 1948 bytes | # Project Overview
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\LICENSE.md | 1075 bytes | ## MIT License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\PRD-wire-model-modifiers.md | 9483 bytes | # wire:model Modifier Layering PRD
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\livewire\livewire\README.md | 1588 bytes | <p align="center"><img width="300" src="/art/logo.svg" alt="Livewire Logo"></p>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\LICENSE.txt | 2973 bytes | ## HTML5-PHP License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\README.md | 9853 bytes | > # UKRAINE NEEDS YOUR HELP NOW!
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\RELEASE.md | 5070 bytes | # Release Notes
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\src\HTML5\Parser\README.md | 1699 bytes | # The Parser Model
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\src\HTML5\Serializer\README.md | 929 bytes | # The Serializer (Writer) Model
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\masterminds\html5\UPGRADING.md | 496 bytes | From 1.x to 2.x
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\monolog\monolog\CHANGELOG.md | 50636 bytes | ### 3.10.0 (2026-01-02)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\monolog\monolog\README.md | 6593 bytes | <p align="center"><img src="logo.jpg" alt="Monolog" width="400"></p>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nesbot\carbon\readme.md | 26959 bytes | # Carbon
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\php-generator\license.md | 2724 bytes | Licenses
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\php-generator\readme.md | 25906 bytes | [![Nette PHP Generator](https://github.com/nette/php-generator/assets/194960/8a2c83bd-daea-475f-994c-9c951de88501)](http ...
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\schema\license.md | 2724 bytes | Licenses
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\schema\readme.md | 16272 bytes | # Nette Schema
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\utils\license.md | 2724 bytes | Licenses
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nette\utils\readme.md | 2597 bytes | [![Nette Utils](https://github.com/nette/utils/assets/194960/c33fdb74-0652-4cad-ac6e-c1ce0d29e32a)](https://doc.nette.or ...
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nikic\php-parser\README.md | 6304 bytes | PHP Parser
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\nunomaduro\termwind\LICENSE.md | 1097 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\openspout\openspout\README.md | 2022 bytes | # OpenSpout
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\openspout\openspout\UPGRADE.md | 5895 bytes | # Upgrade guide
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\paragonie\constant_time_encoding\LICENSE.txt | 2405 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\paragonie\constant_time_encoding\README.md | 3454 bytes | # Constant-Time Encoding
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa\CHANGELOG.md | 3628 bytes | ## Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa\LICENSE.md | 1094 bytes | Copyright 2014-2018 Phil, Antonio Carlos Ribeiro and All Contributors
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa\README.md | 17013 bytes | # Google2FA
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa-qrcode\CHANGELOG.md | 934 bytes | ## Change Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa-qrcode\LICENSE.md | 1094 bytes | Copyright 2014-2018 Phil, Antonio Carlos Ribeiro and All Contributors
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\pragmarx\google2fa-qrcode\README.md | 5002 bytes | # Google2FA QRCode
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\clock\CHANGELOG.md | 206 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\clock\README.md | 1508 bytes | # PSR Clock
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\container\README.md | 578 bytes | Container interface
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\event-dispatcher\README.md | 325 bytes | PSR Event Dispatcher
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-client\CHANGELOG.md | 505 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-client\README.md | 549 bytes | HTTP Client
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-factory\README.md | 556 bytes | HTTP Factories
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-message\CHANGELOG.md | 1075 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-message\docs\PSR7-Interfaces.md | 9548 bytes | # Interfaces
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-message\docs\PSR7-Usage.md | 5492 bytes | ### PSR-7 Usage
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\http-message\README.md | 508 bytes | PSR Http Message
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\log\README.md | 1346 bytes | PSR Log
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\simple-cache\LICENSE.md | 1137 bytes | # The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psr\simple-cache\README.md | 563 bytes | PHP FIG Simple Cache PSR
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\psy\psysh\README.md | 2207 bytes | # PsySH
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ralouphie\getallheaders\README.md | 1088 bytes | getallheaders
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ramsey\collection\README.md | 2830 bytes | <h1 align="center">ramsey/collection</h1>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ramsey\collection\SECURITY.md | 7684 bytes | <!--
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ramsey\uuid\README.md | 3886 bytes | <h1 align="center">ramsey/uuid</h1>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ryangjchandler\blade-capture-directive\CHANGELOG.md | 3097 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ryangjchandler\blade-capture-directive\LICENSE.md | 1107 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ryangjchandler\blade-capture-directive\README.md | 4129 bytes | # Create inline partials in your Blade templates with ease.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\scrivo\highlight.php\AUTHORS.txt | 12128 bytes | Syntax highlighting with language autodetection in PHP.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\scrivo\highlight.php\CONTRIBUTING.md | 5511 bytes | # Contributing
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\scrivo\highlight.php\LICENSE.md | 1683 bytes | BSD 3-Clause License
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\scrivo\highlight.php\README.md | 8033 bytes | # highlight.php
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\invade\CHANGELOG.md | 3100 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\invade\LICENSE.md | 1086 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\invade\README.md | 4160 bytes | <p align="center"><img src="/art/socialcard.png" alt="Social Card of Invade"></p>
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\laravel-package-tools\LICENSE.md | 1086 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\laravel-package-tools\README.md | 22855 bytes | <div align="left">
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\shiki-php\CHANGELOG.md | 5268 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\shiki-php\LICENSE.md | 1085 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\spatie\shiki-php\README.md | 8321 bytes | # Code highlighting with Shiki in PHP
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\clock\CHANGELOG.md | 497 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\clock\README.md | 1195 bytes | Clock Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\console\CHANGELOG.md | 13433 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\console\README.md | 782 bytes | Console Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\css-selector\CHANGELOG.md | 355 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\css-selector\README.md | 688 bytes | CssSelector Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\deprecation-contracts\CHANGELOG.md | 157 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\deprecation-contracts\README.md | 1192 bytes | Symfony Deprecation Contracts
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\error-handler\CHANGELOG.md | 1045 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\error-handler\README.md | 1343 bytes | ErrorHandler Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\event-dispatcher\CHANGELOG.md | 2909 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\event-dispatcher\README.md | 599 bytes | EventDispatcher Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\event-dispatcher-contracts\CHANGELOG.md | 157 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\event-dispatcher-contracts\README.md | 346 bytes | Symfony EventDispatcher Contracts
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\finder\CHANGELOG.md | 2566 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\finder\README.md | 495 bytes | Finder Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\html-sanitizer\CHANGELOG.md | 559 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\html-sanitizer\README.md | 4423 bytes | HtmlSanitizer Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\http-foundation\CHANGELOG.md | 22547 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\http-foundation\README.md | 526 bytes | HttpFoundation Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\http-kernel\CHANGELOG.md | 23921 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\http-kernel\README.md | 676 bytes | HttpKernel Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\mailer\CHANGELOG.md | 4627 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\mailer\README.md | 2237 bytes | Mailer Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\mime\CHANGELOG.md | 1270 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\mime\README.md | 459 bytes | MIME Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-ctype\README.md | 350 bytes | Symfony Polyfill / Ctype
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-intl-grapheme\README.md | 1740 bytes | Symfony Polyfill / Intl: Grapheme
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-intl-idn\README.md | 467 bytes | Symfony Polyfill / Intl: Idn
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-intl-normalizer\README.md | 432 bytes | Symfony Polyfill / Intl: Normalizer
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-mbstring\README.md | 370 bytes | Symfony Polyfill / Mbstring
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-php80\README.md | 919 bytes | Symfony Polyfill / Php80
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-php83\README.md | 1023 bytes | Symfony Polyfill / Php83
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-php84\README.md | 959 bytes | Symfony Polyfill / Php84
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-php85\README.md | 564 bytes | Symfony Polyfill / Php85
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\polyfill-uuid\README.md | 347 bytes | Symfony Polyfill / Uuid
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\process\CHANGELOG.md | 4446 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\process\README.md | 472 bytes | Process Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\routing\CHANGELOG.md | 15544 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\routing\README.md | 1630 bytes | Routing Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\service-contracts\CHANGELOG.md | 157 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\service-contracts\README.md | 330 bytes | Symfony Service Contracts
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\string\CHANGELOG.md | 1241 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\string\README.md | 555 bytes | String Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\translation\CHANGELOG.md | 8533 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\translation\README.md | 1037 bytes | Translation Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\translation-contracts\CHANGELOG.md | 157 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\translation-contracts\README.md | 338 bytes | Symfony Translation Contracts
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\uid\CHANGELOG.md | 1555 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\uid\README.md | 604 bytes | Uid Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\var-dumper\CHANGELOG.md | 3371 bytes | CHANGELOG
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\symfony\var-dumper\README.md | 607 bytes | VarDumper Component
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\tijsverkoyen\css-to-inline-styles\LICENSE.md | 1491 bytes | Copyright (c) Tijs Verkoyen. All rights reserved.
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ueberdosis\tiptap-php\LICENSE.md | 1092 bytes | The MIT License (MIT)
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\ueberdosis\tiptap-php\README.md | 11731 bytes | # Tiptap for PHP
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\voku\portable-ascii\CHANGELOG.md | 6076 bytes | # Changelog
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\voku\portable-ascii\LICENSE.txt | 1058 bytes | Copyright (C) 2019 Lars Moelleken
+- C:\Users\Ufuk\Desktop\barkod programı\web-application\vendor\voku\portable-ascii\README.md | 18284 bytes | [//]: # (AUTO-GENERATED BY "PHP README Helper": base file -> docs/base.md)
+

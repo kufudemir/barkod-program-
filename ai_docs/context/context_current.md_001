@@ -1,0 +1,59 @@
+﻿# Context Log 001
+
+## Entry 0001
+- timestamp: 2026-03-08T00:00:00+03:00
+- request_classification: analysis_only
+- user_request_summary: Projenin tamamını analiz et, `ai_docs` sistemini oluştur, ilk çalıştırmada kod değiştirme.
+- read_documents:
+  - dokumanlar/proje-kurallari.md
+  - dokumanlar/asistan-ve-codex-kuralları.md
+  - dokumanlar/uygulama-dokumanlari/program özellikleri.md
+  - dokumanlar/uygulama-dokumanlari/teknik-mimari.md
+  - dokumanlar/uygulama-dokumanlari/gelistirme-fazlari-v4-web-pos-parity.md
+  - dokumanlar/web-dokumanlari/web-api-sozlesmesi.md
+  - dokumanlar/web-dokumanlari/web-veri-modeli.md
+- constraints:
+  - mevcut dokümanları değiştirme
+  - mevcut kodu değiştirme
+  - sadece analiz + yeni AI dokümantasyon dosyaları
+- decisions:
+  - `ai_docs/` altında bağımsız yönetişim dokümantasyon katmanı oluşturuldu
+  - mevcut yapı ve faz durumu sadece özetlendi
+- result:
+  - phase0 analysis tamamlandı
+  - ai_docs dosya iskeleti oluşturuldu
+
+## Entry 0002
+- timestamp: 2026-03-08T07:49:37.2541459+03:00
+- request_classification: docs_only
+- user_request_summary: Process historical logs, conversation records, and compact context into ai_docs.
+- read_documents:
+  - C:\Users\Ufuk\.codex\sessions\**\*.jsonl
+  - C:\Users\Ufuk\Desktop\barkod programı\dokumanlar\oturum-kayitlari\**
+  - C:\Users\Ufuk\Desktop\Codex.log
+- constraints:
+  - no app code changes
+  - keep updates inside ai_docs only
+- decisions:
+  - generated aggregated conversation archive
+  - generated compact context history
+  - generated runtime log summary
+  - applied 1024KB split policy
+- result:
+  - historical memory artifacts are now persisted under ai_docs
+
+## Entry 0003
+- timestamp: 2026-03-08T07:58:57.9411616+03:00
+- request_classification: docs_only
+- user_request_summary: ai_docs hariç tüm proje dökümanlarını okuyup ai_docs belgelerini güncelle.
+- read_documents:
+  - full docs set: 461 (ai_docs haric)
+  - project-focused docs set: 133 (vendor/build haric)
+- constraints:
+  - sadece ai_docs içinde güncelleme
+  - kuralları kaynak dökümanlardan türetme
+- decisions:
+  - rules.md, phases.md, features.md, sources.md ve README güncellendi
+  - full scan ve project scan sonuçları ayrı katalog dosyalarına yazıldı
+- result:
+  - ai_docs içerikleri proje dökümanlarıyla senkronlandı

@@ -1,0 +1,17 @@
+﻿# Dokuman Tarama Ozeti (Proje Odakli)
+
+Tarama zamani: 2026-03-08T07:58:39.5114563+03:00
+Toplam dokuman: 133
+
+## Dagilim
+- root: 1
+- dokumanlar: 26
+- web_update: 100
+- web_root: 3
+- tools: 3
+- other: 0
+
+## Not
+- Bu ozet, projeye ait operasyonel dokuman setini temsil eder (vendor/build haric).
+- Tum dosya detaylari `ai_docs/sources_catalog_current.md_001` icinde tutulur.
+

@@ -1,0 +1,58 @@
+﻿# Changelog 001
+
+## 2026-03-08 - AI Docs Initialization
+
+### Değişiklik Türü
+- docs_only
+
+### Eklenenler
+- `ai_docs/README.md`
+- `ai_docs/project_map.md`
+- `ai_docs/architecture.md`
+- `ai_docs/features.md`
+- `ai_docs/phases.md`
+- `ai_docs/rules.md`
+- `ai_docs/conventions.md`
+- `ai_docs/tech_stack.md`
+- `ai_docs/backlog.md`
+- `ai_docs/sources.md`
+- `ai_docs/context/project_state.md`
+- `ai_docs/context/context_current.md_001`
+- `ai_docs/logs/changelog_current.md_001`
+- `ai_docs/logs/conversation_current.md_001`
+
+### Not
+- Mevcut kod/doküman dosyalarında değişiklik yapılmadı.
+
+## 2026-03-08 - Historical Memory Ingestion
+
+### Change Type
+- docs_only
+
+### Added/Updated
+- `ai_docs/logs/conversation_archive_current.md_00X`
+- `ai_docs/context/context_history_current.md_00X`
+- `ai_docs/logs/runtime_logs_summary_current.md_00X`
+- `ai_docs/sources.md`
+- `ai_docs/context/context_current.md_001` (Entry 0002)
+
+## 2026-03-08 - AI Docs Full Documentation Sync
+
+### Change Type
+- docs_only
+
+### Added/Updated
+- ai_docs/rules.md
+- ai_docs/phases.md
+- ai_docs/features.md
+- ai_docs/sources.md
+- ai_docs/README.md
+- ai_docs/document_scan_full_current.md_001
+- ai_docs/sources_catalog_full_current.md_001
+- ai_docs/document_scan_current.md_001
+- ai_docs/sources_catalog_current.md_001
+- ai_docs/context/context_current.md_001 (Entry 0003)
+
+### Follow-up Sync
+- ai_docs/architecture.md
+- ai_docs/tech_stack.md
