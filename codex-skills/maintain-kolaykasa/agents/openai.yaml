@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain KolayKasa"
+  short_description: "Work safely on the KolayKasa codebase"
+  default_prompt: "Use $maintain-kolaykasa to analyze, change, or document this KolayKasa repository while following project rules and phase discipline."
