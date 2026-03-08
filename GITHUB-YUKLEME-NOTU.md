@@ -9,7 +9,7 @@ git init
 git add .
 git commit -m "Initial GitHub-ready backup"
 git branch -M main
-git remote add origin <REPO_URL>
+git remote add origin https://github.com/kufudemir/barkod-program-
 git push -u origin main
 ```
 
